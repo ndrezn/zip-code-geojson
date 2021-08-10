@@ -2,6 +2,7 @@
 
 Zip code boundaties across the United States in multiple resolutions:
 
+- 100m
 - 26mb
 - 15mb
 
