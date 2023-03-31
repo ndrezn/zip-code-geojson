@@ -1,6 +1,6 @@
 # zip-code-geojson
 
-Zip code boundaties across the United States in multiple resolutions:
+Zip code boundaries across the United States in multiple resolutions:
 
 - 100m
 - 26mb
